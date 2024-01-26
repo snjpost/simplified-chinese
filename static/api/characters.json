@@ -1,0 +1,155 @@
+[
+  {
+    "mandarin": "你",
+    "pinyin": "nǐ",
+    "english": "you (single)",
+    "radical": "亻",
+    "components": "刀小",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "好",
+    "pinyin": "hǎo",
+    "english": "good",
+    "radical": "女",
+    "components": "子",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "再",
+    "pinyin": "zài",
+    "english": "again, once more, another",
+    "radical": "",
+    "components": "一冉",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "见",
+    "pinyin": "jiàn",
+    "english": "to see, to meet, to interview, opinion",
+    "radical": "",
+    "components": "冂儿",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "零",
+    "pinyin": "líng",
+    "english": "zero",
+    "radical": "雨",
+    "components": "令",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "一",
+    "pinyin": "yī",
+    "english": "one ",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "二",
+    "pinyin": "èr",
+    "english": "two",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "三",
+    "pinyin": "sān ",
+    "english": "three",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "四",
+    "pinyin": "sì",
+    "english": "four",
+    "radical": "囗",
+    "components": "儿",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "五",
+    "pinyin": "wǔ",
+    "english": "five",
+    "radical": "二",
+    "components": "一力",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "六",
+    "pinyin": "liù ",
+    "english": "six",
+    "radical": "八",
+    "components": "亠",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "七",
+    "pinyin": "qī ",
+    "english": "seven",
+    "radical": "一",
+    "components": "乚",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "八",
+    "pinyin": "bā ",
+    "english": "eight, all around, all sides",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "九",
+    "pinyin": "jiǔ",
+    "english": "nine",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "十",
+    "pinyin": "shí",
+    "english": "ten",
+    "radical": "",
+    "components": "一丨",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "百",
+    "pinyin": "bǎi",
+    "english": "hundred",
+    "radical": "白",
+    "components": "一",
+    "section": 1,
+    "unit": 1
+  },
+  {
+    "mandarin": "元",
+    "pinyin": "yuán",
+    "english": "Chinese currency, first, primary, basic",
+    "radical": "儿",
+    "components": "二",
+    "section": 1,
+    "unit": 1
+  }
+]

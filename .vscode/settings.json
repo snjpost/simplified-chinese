@@ -1,7 +1,6 @@
 {
-  "cSpell.words": [
-    "sveltejs",
-    "vite",
-    "vitest"
-  ]
+  "cSpell.words": ["sveltejs", "vite", "vitest"],
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  }
 }
