@@ -3,10 +3,17 @@
 </script>
 
 <h2>{data.char.mandarin}</h2>
-<p>words:</p>
+<p>{data.char.pinyin}</p>
+<p>{data.char.english}</p>
 
 <ul>
-  {#each data.titles as title}
-    <li><a href="/characters/{title}">{title}</a></li>
+  {#each data.charComponents as component}
+    {#if typeof component === "string"}
+      <li>{component}</li>
+    {:else}
+      <li
+        ><a href="/characters/{component.mandarin}">{component.mandarin}</a>: {component.english}</li
+      >
+    {/if}
   {/each}
 </ul>

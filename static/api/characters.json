@@ -3,7 +3,7 @@
     "mandarin": "你",
     "pinyin": "nǐ",
     "english": "you (single)",
-    "radical": "亻",
+    "radical": "人",
     "components": "刀小",
     "section": 1,
     "unit": 1
@@ -151,5 +151,761 @@
     "components": "二",
     "section": 1,
     "unit": 1
+  },
+  {
+    "mandarin": "我",
+    "pinyin": "wǒ",
+    "english": "I",
+    "radical": "",
+    "components": "手戈",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "叫",
+    "pinyin": "jiào",
+    "english": "to call, to shout, to be called",
+    "radical": "口",
+    "components": "丩",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "明",
+    "pinyin": "míng",
+    "english": "bright, next, public or open, clear (of meaning), to understand, wise",
+    "radical": "日",
+    "components": "月",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "张",
+    "pinyin": "zhāng",
+    "english": "to open up, to spread, sheet of paper, classifier for flat, rectangular objects (e.g. map, bed, table, flat)",
+    "radical": "弓",
+    "components": "长",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "名",
+    "pinyin": "míng",
+    "english": "(given) name",
+    "radical": "口",
+    "components": "夕",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "字",
+    "pinyin": "zì",
+    "english": "character",
+    "radical": "子",
+    "components": "宀",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "什",
+    "pinyin": "shén",
+    "english": "what",
+    "radical": "人",
+    "components": "十",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "子",
+    "pinyin": "zi",
+    "english": "son, child, seed, egg, small thing",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "宀",
+    "pinyin": "mián",
+    "english": "roof",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "么",
+    "pinyin": "me",
+    "english": "suffix",
+    "radical": "丿",
+    "components": "厶",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "姓",
+    "pinyin": "xìng",
+    "english": "family name, surname",
+    "radical": "woman give birth",
+    "components": "",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "呢",
+    "pinyin": "ne",
+    "english": "at the end of special, alternative or rhetorical question",
+    "radical": "口",
+    "components": "尼",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "王",
+    "pinyin": "wáng",
+    "english": "",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "李",
+    "pinyin": "lǐ",
+    "english": "plum",
+    "radical": "木",
+    "components": "子",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "高",
+    "pinyin": "gāo",
+    "english": "high (temperature), tall (body height)",
+    "radical": "",
+    "components": "亠口冋",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "兴",
+    "pinyin": "xìng, xīng",
+    "english": "to prosper, to become popular, interest, excitement",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "很",
+    "pinyin": "hěn",
+    "english": "quite, very",
+    "radical": "彳",
+    "components": "艮",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "认",
+    "pinyin": "rèn",
+    "english": "to recognise, to know, to admit",
+    "radical": "讠",
+    "components": "人",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "识",
+    "pinyin": "shi",
+    "english": "to know, knowledge",
+    "radical": "讠",
+    "components": "只",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "也",
+    "pinyin": "yě",
+    "english": "also, too",
+    "radical": "乛",
+    "components": "乚",
+    "section": 1,
+    "unit": 2
+  },
+  {
+    "mandarin": "口",
+    "pinyin": "kŏu",
+    "english": "mouth, entrance, classifier for family members, things with mouths and mouthfuls",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "木",
+    "pinyin": "mù",
+    "english": "tree, wood(en), lumber",
+    "radical": "",
+    "components": "十八",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "只",
+    "pinyin": "zhī",
+    "english": "only, merely, just, but",
+    "radical": "口",
+    "components": "八",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "氵",
+    "pinyin": "shuǐ",
+    "english": "water, liquid",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "鱼",
+    "pinyin": "yú",
+    "english": "fish",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "饭",
+    "pinyin": "fàn",
+    "english": "cooked rice, meal",
+    "radical": "饣",
+    "components": "反",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "吃",
+    "pinyin": "chī",
+    "english": "to eat, to consume, to absorb, Mahjong straight",
+    "radical": "口",
+    "components": "乞",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "面",
+    "pinyin": "miàn",
+    "english": "noodles",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "水",
+    "pinyin": "shuǐ",
+    "english": "water",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "喝",
+    "pinyin": "hē",
+    "english": "to drink",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "茶",
+    "pinyin": "chá",
+    "english": "tea",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "不",
+    "pinyin": "bù ",
+    "english": "not, no",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "是",
+    "pinyin": "shì",
+    "english": "to be",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "他",
+    "pinyin": "tā",
+    "english": "he, him",
+    "radical": "人",
+    "components": "也",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "她",
+    "pinyin": "tā",
+    "english": "she, her",
+    "radical": "女",
+    "components": "也",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "学",
+    "pinyin": "xué",
+    "english": "to learn, to study, to imitate",
+    "radical": "",
+    "components": "子",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "生",
+    "pinyin": "shēng",
+    "english": "raw, uncooked, unripe, to give birth, to bear, to be born, to grow",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "们",
+    "pinyin": "men",
+    "english": "plural maker",
+    "radical": "人",
+    "components": "门",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "门",
+    "pinyin": "mén",
+    "english": "door, gate, opening, switch, valve",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "吗",
+    "pinyin": "ma",
+    "english": "at the end of a question, changes statement to question",
+    "radical": "口",
+    "components": "马",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "马",
+    "pinyin": "mǎ",
+    "english": "horse",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "老",
+    "pinyin": "lǎo",
+    "english": "old",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "师",
+    "pinyin": "shī",
+    "english": "teacher, master, expert",
+    "radical": "巾",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "医",
+    "pinyin": "yī",
+    "english": "medical, to cure, to treat",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 3
+  },
+  {
+    "mandarin": "的",
+    "pinyin": "de",
+    "english": "makes person pronoun possessive adjective, target",
+    "radical": "",
+    "components": "白勺",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "电",
+    "pinyin": "diàn",
+    "english": "electric",
+    "radical": "田",
+    "components": "乚",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "话",
+    "pinyin": "huà",
+    "english": "talk, words, conversation",
+    "radical": "讠",
+    "components": "舌",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "号",
+    "pinyin": "hào",
+    "english": "ordinal number, date, mark, sign",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "码",
+    "pinyin": "mǎ",
+    "english": "number",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "人",
+    "pinyin": "rén",
+    "english": "person, people",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "中",
+    "pinyin": "zhōng",
+    "english": "among, (with)in, center, middle, while",
+    "radical": "丨",
+    "components": "口",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "国",
+    "pinyin": "guó",
+    "english": "country",
+    "radical": "囗",
+    "components": "玉",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "哪",
+    "pinyin": "nǎ",
+    "english": "which",
+    "radical": "口",
+    "components": "那",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "美",
+    "pinyin": "měi",
+    "english": "beautiful",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "英",
+    "pinyin": "yīng",
+    "english": "outstanding",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "加",
+    "pinyin": "jiā",
+    "english": "to add",
+    "radical": "力",
+    "components": "口",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "拿",
+    "pinyin": "ná",
+    "english": "to hold, to seize, to hold",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "大",
+    "pinyin": "dà",
+    "english": "big",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "都",
+    "pinyin": "dōu",
+    "english": "both/all",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "对",
+    "pinyin": "duì",
+    "english": "right, correct, couple, pair, towards, at, for, to face, opposite, to treat (sb a certain way), to match together, to adjust, to fit, to suit, to answer, to reply, classifier: couple",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 4
+  },
+  {
+    "mandarin": "舌",
+    "pinyin": "shé",
+    "english": "tongue",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "力",
+    "pinyin": "lì",
+    "english": "power, force, strength, ability",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "玉",
+    "pinyin": "yù",
+    "english": "jade, gem",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "那",
+    "pinyin": "nà",
+    "english": "that, those, then (in that case), well then",
+    "radical": "月",
+    "components": "阝",
+    "section": 1,
+    "unit": 6
+  },
+  {
+    "mandarin": "早",
+    "pinyin": "zǎo",
+    "english": "early",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "上",
+    "pinyin": "shàng",
+    "english": "on, on top, upon, above, upper, previous, first, to climb, to go up",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "今",
+    "pinyin": "jīn",
+    "english": "today, modern, present, current, now",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "天",
+    "pinyin": "tiān",
+    "english": "sky, day",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "怎",
+    "pinyin": "zěn",
+    "english": "how",
+    "radical": "心",
+    "components": "乍",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "样",
+    "pinyin": "yàng",
+    "english": "appearance, manner, pattern",
+    "radical": "木",
+    "components": "羊",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "在",
+    "pinyin": "zài",
+    "english": "to be at",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "家",
+    "pinyin": "jiā",
+    "english": "family, household, home, classifier: businesses, families",
+    "radical": "宀",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "北",
+    "pinyin": "běi",
+    "english": "north",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "京",
+    "pinyin": "jīng",
+    "english": "",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "儿",
+    "pinyin": "ér",
+    "english": "son, child",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "香",
+    "pinyin": "xiāng",
+    "english": "fragrant, aromatic",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "约",
+    "pinyin": "yuē",
+    "english": "？",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "伦",
+    "pinyin": "lún",
+    "english": "human relations",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "敦",
+    "pinyin": "dūn",
+    "english": "honest, sincere",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "台",
+    "pinyin": "tái",
+    "english": "classifier for vehicles and electronics, platform, stage",
+    "radical": "",
+    "components": "",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "湾",
+    "pinyin": "wān",
+    "english": "bay, gulf",
+    "radical": "氵",
+    "components": "弯",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "住",
+    "pinyin": "zhù",
+    "english": "to live (at/in)",
+    "radical": "人",
+    "components": "主",
+    "section": 1,
+    "unit": 5
+  },
+  {
+    "mandarin": "羊",
+    "pinyin": "yáng",
+    "english": "sheep, goat",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
+  },
+  {
+    "mandarin": "心",
+    "pinyin": "xīn",
+    "english": "heart, mind",
+    "radical": "",
+    "components": "",
+    "section": null,
+    "unit": null
   }
 ]
